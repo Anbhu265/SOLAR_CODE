@@ -1,0 +1,8 @@
+Dependencies for Project 'SL_UART', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5908B8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\SL_UART.C)(0x676A634F)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "sl_uart.o" --omf_browse "sl_uart.crf" --depend "sl_uart.d")
+I (C:\Keil\ARM\Inc\Philips\LPC21XX.h)(0x4F590A6C)
+I (C:\Keil\ARM\RV31\Inc\string.h)(0x4F59086C)
+I (C:\Keil\ARM\RV31\Inc\stdlib.h)(0x4F59086C)
+I (C:\Keil\ARM\RV31\Inc\stdio.h)(0x4F59086C)
+I (C:\Keil\ARM\RV31\Inc\stdint.h)(0x4F59086C)
